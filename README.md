@@ -10,11 +10,7 @@
 
 #### [Laboratorio 1](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab1)
 
-- [Lecture 1: Introduction to Research ](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab1/mcurreamlecture1.ipynb)
-- [Lecture 2: Introduction to Python ](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab1/mcurreamlecture2.ipynb)
-- [Lecture 3: Introduction to NumPy ](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab1/mcurreamlecture3.ipynb)
-- [Lecture 4: Introduction to pandas ](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab1/mcurreamlecture4.ipynb)
-- [Lecture 5: Plotting Data ](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab1/mcurreamlecture5.ipynb)
+- [Quantconnect Tuturials Unified](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab1/mcurream_QuanconnectTutortials.ipynb)
 
 -----
 
