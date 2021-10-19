@@ -10,7 +10,7 @@
 
 #### [Laboratorio 1](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab1)
 
-- [Quantconnect Tuturials Unified](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab1/mcurream_QuanconnectTutortials.ipynb)
+- [Quantconnect Tutorials Unified](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab1/mcurream_QuanconnectTutortials.ipynb)
 
 -----
 
