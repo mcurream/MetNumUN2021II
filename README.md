@@ -14,9 +14,19 @@
 
 -----
 
-#### [Laboratorio 2](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab2)
+#### [Laboratorio 2](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab2)
 - [The PyData Toolbox with Scott Sanderson](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab2/mcurreamscottsanderson.ipynb)
 
+
+#### [Laboratorio 3](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab3)
+
+##### cognitiveclass.ai Applied Data Science with Python
+
+- [Data Visualization with Python - Certificate(PDF)](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab3/Data%20Visualization%20with%20Python.pdf)
+- [Data Analysis with Python - Certificate(PDF)](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab3/Data%20Analysis%20with%20Python.pdf)
+- [Python for Data Science - Certificate(PDF)](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab3/Python%20for%20Data%20Science.pdf)
+- [LinkedIn .jpg](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab3/mcurreamcognitiveclassaapplieddatadciencewithpython.JPG)
+- [IPython Notebook with the Screenshots](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab3/mcurreamcognitiveclassaapplieddatadciencewithpython.ipynb)
 
 -----
 
