@@ -35,3 +35,9 @@
 
 
 -----
+
+#### [Laboratorio 6](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab6)
+- [Montecarlo Areas](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab6/group10MontecarloAreas.ipynb)
+
+
+-----
