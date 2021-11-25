@@ -42,7 +42,7 @@
 
 -----
 
-#### [Laboratorio 6](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab7)
+#### [Laboratorio 7](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab7)
 - [Introduction to Numerical Analysis - Week 1 (Po-Shen Loh method)](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab7/group10AlgorithmicToolboxWeek1Quadratic.ipynb)
 
 -----
