@@ -47,8 +47,12 @@
 
 -----
 
-
 #### [Laboratorio 8](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab8)
 - [Sequences, Series and Sums](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab8/mcurreamArithmeticSeriesPowerSeriesPowerSums.ipynb)
+
+-----
+
+#### [Laboratorio 9](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab9)
+- [Taylor Series](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab9/group10TaylorSeries.ipynb)
 
 -----
