@@ -56,3 +56,8 @@
 - [Taylor Series](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab9/group10TaylorSeries.ipynb)
 
 -----
+
+#### [Laboratorio 10](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab10)
+- [Introduction to Numerical Analysis - Week 1 - LU Pivoting](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab10/IntroductiontoNumericalAnalysisWeek1_LUpivotingGroup10.ipynb)
+
+-----
