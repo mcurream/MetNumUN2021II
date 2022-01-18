@@ -61,3 +61,10 @@
 - [Introduction to Numerical Analysis - Week 1 - LU Pivoting](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab10/IntroductiontoNumericalAnalysisWeek1_LUpivotingGroup10.ipynb)
 
 -----
+
+#### [Laboratorio 13](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab13)
+- [PLU decomposition of a matrix – Sympy](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab13/PLUSympyGroup10.ipynb)
+
+-----
+
+
