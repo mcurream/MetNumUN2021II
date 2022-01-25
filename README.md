@@ -62,6 +62,11 @@
 
 -----
 
+#### [Laboratorio 11](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab11)
+- [Introduction to Numerical Analysis - Week 4 - Iterative Methods for Linear Systems](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab11/Week4IterativeMethodsForLinearSystemsGroup10.ipynb.ipynb)
+
+-----
+
 #### [Laboratorio 13](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab13)
 - [PLU decomposition of a matrix – Sympy](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab13/PLUSympyGroup10.ipynb)
 
