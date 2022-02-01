@@ -81,4 +81,9 @@
 
 -----
 
+#### [Laboratorio 15](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab15)
+- [Bisection Convergence](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab15/Group10_BisectionConvergence.ipynb)
+
+-----
+
 
