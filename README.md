@@ -94,17 +94,17 @@
 -----
 
 #### [Laboratorio 16](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab16)
-- [Introduction to Numerical Analysis – Week 5 – Interpolation and approximation.](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab16/mcurreamIntroductiontoNumericalAnalisysWeek5InterpolationApproximationModelingData.ipynb)
+- [Introduction to Numerical Analysis – Week 5 – Interpolation and approximation.](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab16/Group10IntroductiontoNumericalAnalysisWeek5InterpolationApproximationModelingData.ipynb)
 
 -----
 
 #### [Laboratorio 17](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab17)
-- [Introduction to Numerical Analysis – Week 6 – Numerical Calculus: derivatives and integrals.](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab17/mcurreamIntroductiontoNumericalAnalisysWeek6NumericalCalculusDerivativesIntegrals.ipynb)
+- [Introduction to Numerical Analysis – Week 6 – Numerical Calculus: derivatives and integrals.](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab17/Group10IntroductiontoNumericalAnalysisWeek6NumericalCalculusDerivativesIntegrals.ipynb)
 
 -----
 
 #### [Laboratorio 18](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab18)
-- [Introduction to Numerical Analysis – Week 7 – Initial value problem for ordinary differential equations.](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab18/mcurreamIntroductiontoNumericalAnalisysWeek7InitialValueProblemOrdinaryDifferentialEquations.ipynb)
+- [Introduction to Numerical Analysis – Week 7 – Initial value problem for ordinary differential equations.](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab18/Group10IntroductiontoNumericalAnalysisWeek7InitialValueProblemOrdinaryDifferentialEquations.ipynb)
 
 -----
 
