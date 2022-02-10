@@ -30,6 +30,13 @@
 
 -----
 
+
+#### [Laboratorio 4](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab4)
+- [404](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab4)
+
+
+-----
+
 #### [Laboratorio 5](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab5)
 - [SymPyLab](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab5/group10SymPyLab.ipynb)
 
@@ -67,7 +74,7 @@
 
 -----
 #### [Laboratorio 12](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab12)
-- [Introduction to numerical analysis – Week 2 – QR decomposition of a matrix](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab12/Week2QRdecompositionGroup10.ipynb)
+- [Introduction to Numerical Analysis – Week 2 – QR decomposition of a matrix](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab12/Week2QRdecompositionGroup10.ipynb)
 
 -----
 
@@ -77,7 +84,7 @@
 -----
 
 #### [Laboratorio 14](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab14)
-- [Introduction to numerical analysis – Week 3 – Solving non-linear algebraic equations](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab14/mcurreamIntroductiontoNumericalAnalisysWeek3SolvingNonLinearAlgebraicEquations.ipynb)
+- [Introduction to Numerical Analysis – Week 3 – Solving non-linear algebraic equations](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab14/mcurreamIntroductiontoNumericalAnalisysWeek3SolvingNonLinearAlgebraicEquations.ipynb)
 
 -----
 
@@ -86,8 +93,24 @@
 
 -----
 
-#### [Certificados](https://github.com/mcurream/MetNumUN2021II/tree/main/CourseraNumericalAnalysisHSE)
-- [Introduction to Numerical Analysis](https://github.com/mcurream/MetNumUN2021II/blob/main/CourseraNumericalAnalysisHSE/Coursera%20U5T2NZG78BHJ.pdf)
+#### [Laboratorio 16](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab16)
+- [Introduction to Numerical Analysis – Week 5 – Interpolation and approximation.](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab16/mcurreamIntroductiontoNumericalAnalisysWeek5InterpolationApproximationModelingData.ipynb)
+
+-----
+
+#### [Laboratorio 17](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab17)
+- [Introduction to Numerical Analysis – Week 6 – Numerical Calculus: derivatives and integrals.](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab17/mcurreamIntroductiontoNumericalAnalisysWeek6NumericalCalculusDerivativesIntegrals.ipynb)
+
+-----
+
+#### [Laboratorio 18](https://github.com/mcurream/MetNumUN2021II/tree/main/Lab18)
+- [Introduction to Numerical Analysis – Week 7 – Initial value problem for ordinary differential equations.](https://github.com/mcurream/MetNumUN2021II/blob/main/Lab18/mcurreamIntroductiontoNumericalAnalisysWeek7InitialValueProblemOrdinaryDifferentialEquations.ipynb)
+
+-----
+
+
+#### [Certificado - Coursera](https://github.com/mcurream/MetNumUN2021II/tree/main/CourseraNumericalAnalysisHSE)
+- [Introduction to Numerical Analysis - Coursera - HSE](https://github.com/mcurream/MetNumUN2021II/blob/main/CourseraNumericalAnalysisHSE/Coursera%20U5T2NZG78BHJ.pdf)
 
 -----
 
